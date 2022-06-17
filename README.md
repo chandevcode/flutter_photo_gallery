@@ -1,4 +1,4 @@
-# photo_gallery
+# Flutter_photo_gallery
 
 A new Flutter project.
 
